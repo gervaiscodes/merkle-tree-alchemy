@@ -1,0 +1,17 @@
+{
+  "name": "merkle-tree-alchemy",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "crypto": "^1.0.1",
+    "mocha": "^10.3.0"
+  }
+}
